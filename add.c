@@ -1,5 +1,5 @@
 #include<stdio.h>
-int add()
+int addition()
 {
 int n = 40; // declare & initialize local variable n.
 int sum = (n * (n + 1) ) / 2; /* define the mathematical formula to calculate the sum of given number. */
