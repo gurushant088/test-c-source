@@ -4,4 +4,5 @@ factorial();
 biggest3();
 reverse();
 palendrome();
+addition();
 }
